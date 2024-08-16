@@ -110,28 +110,22 @@ Section:NewSlider("Walkspeed", "changes how you walk", 500, 0, function(s) -- 50
 end)
 Section:NewButton("FE Invisible Gui!", "Yep its fe i just tried it", function() loadstring(game:HttpGet('https://raw.githubusercontent.com/GhostPlayer352/Test4/main/Invisible%20Gui'))()
 end)
-
-
-
 local Tab = Window:NewTab("Heroes Bg") 
 local Section = Tab:NewSection("UPD 1? SO COOLL") 
 Section:NewLabel("Testers applications are starting!")    
     Section:NewButton("DemonSmthScript", "idk the rest of the name", function()
     loadstring(game:HttpGet("https://pastebin.com/raw/fbta5b8L", true))()
 end)
-
 local Tab = Window:NewTab("KJ ARENA (that famous game)")
 local Section = Tab:NewSection("Sorry Discord Users. the world feels so beautiful that i cant script rn.")
 Section:NewLabel("Throughout Scripts and Upds i am The Perfection one.")
 Section:NewButton("Blast Best kj arena script", "wowzers gives free gamepasses", function() loadstring(game:HttpGet("https://raw.githubusercontent.com/Robloxblast/KJ-Arena/main/KJarena"))()
 end)
-
 local Tab = Window:NewTab("RIVALS")
 local Section = Tab:NewSection("Hm rivals with someone?")
 Section:NewLabel("Showcase = Youtuber role!")
 Section:NewButton("TbaoHubyayayay", "tbao is fire", function() loadstring(game:HttpGet("https://raw.githubusercontent.com/tbao143/thaibao/main/TbaoHubRivals"))()
 end)
-
 local Tab = Window:NewTab("Realm Rampage")
 local Section = Tab:NewSection("Tarvisite is gonna leak tf out of this game🔥")
 Section:NewLabel("Dont get banned so instead i suggest alt")
