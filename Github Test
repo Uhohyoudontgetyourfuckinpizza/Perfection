@@ -130,7 +130,6 @@ local Tab = Window:NewTab("Realm Rampage")
 local Section = Tab:NewSection("Tarvisite is gonna leak tf out of this game🔥")
 Section:NewLabel("Dont get banned so instead i suggest alt")
 Section:NewButton("Realm Rampage free emotes", "Gives free emotezyay", function() loadstring(game:HttpGet("https://rawscripts.net/raw/Realm-Rampage-free-emote-17194"))()
-Tags: 
 end)
 Section:NewButton("Realm rampage grind shit", "for ppl who are lazy", function() loadstring(game:HttpGet("https://rawscripts.net/raw/Realm-Rampage-Genryhna-17114"))()
 end)
